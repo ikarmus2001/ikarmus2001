@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kacper, aka ikarmus
 - 👀 I’m interested in managing projects and writing Python or C# code
-- 🌱 I’m currently learning python, looking for ways to become Project Manager
-- 💞️ I’m currently starting project (don't have name yet) about making inventory list of whole home - still planning a lot of things
+- 🌱 I’m currently learning python and cpp, looking for ways to become Project Manager, planning to start Java trip
+- 💞️ I’m currently working on top secret project (Arduino and C++ stuff)
 - 📫 How to reach me:
         Email: kahalaczkiewicz@wp.pl
 
